@@ -2,7 +2,7 @@
   "name": "sell",
   "version": "1.0.0",
   "description": "sellApp",
-  "author": "wang.zhidong <724402785@qq.com>",
+  "author": 123456 <123456@qq.com>",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
